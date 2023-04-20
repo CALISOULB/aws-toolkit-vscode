@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 RUN apt-get update && apt-get -y upgrade && apt-get -y install xvfb \
     libgtk-3-0 \
