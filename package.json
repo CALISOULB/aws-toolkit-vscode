@@ -2952,7 +2952,7 @@
         "vscode-languageserver": "^6.1.1",
         "vscode-languageserver-textdocument": "^1.0.1",
         "vscode-nls": "^5.0.0",
-        "vue": "^3.2.6",
+        "vue": "^3.5.14",
         "winston": "^3.2.1",
         "winston-transport": "^4.3.0",
         "xml2js": "^0.4.19",
